@@ -4,7 +4,7 @@
 
 **Instrutor:** Midori Toyota
 
-**Plataforma:** Udemy ([https://www.udemy.com/course/sql-para-analise-de-dados/](https://www.udemy.com/course/sql-para-analise-de-dados/))
+**Plataforma:** Udemy (https://www.udemy.com/course/sql-para-analise-de-dados/)
 
 **Descrição:**
 
@@ -68,8 +68,8 @@ Este repositório contém minhas anotações e exercícios práticos do curso "S
 
 **Recursos adicionais:**
 
-*   [Link para o curso na Udemy]([https://www.udemy.com/course/sql-para-analise-de-dados/](https://www.udemy.com/course/sql-para-analise-de-dados/))
-*   ![Documentação do SQL](https://www.postgresql.org/docs/current/sql-syntax.html)
-*   ![Livros sobre SQL](https://www.casadocodigo.com.br/products/livro-postgresql)
+*   [Link para o curso na Udemy](https://www.udemy.com/course/sql-para-analise-de-dados/)
+*   [Documentação do SQL](https://www.postgresql.org/docs/current/sql-syntax.html)
+*   [Livros sobre SQL](https://www.casadocodigo.com.br/products/livro-postgresql)
 
 **Espero que este repositório seja útil para você em sua jornada de aprendizado do SQL!** 🚀
