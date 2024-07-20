@@ -1,6 +1,6 @@
 ## Curso SQL para Análise de Dados - Midori Toyota 📊
 
-[Inserir Imagem/Banner do Curso]
+![ilustração](https://github.com/TonFLY/images/blob/main/Firefly%20gerer%20um%20banner%20ilustrado%20-SQL%20PARA%20ANALISE%20DE%20DADOS-%2032593.jpg?raw=true)
 
 **Instrutor:** Midori Toyota
 
@@ -69,8 +69,7 @@ Este repositório contém minhas anotações e exercícios práticos do curso "S
 **Recursos adicionais:**
 
 *   [Link para o curso na Udemy]([https://www.udemy.com/course/sql-para-analise-de-dados/](https://www.udemy.com/course/sql-para-analise-de-dados/))
-*   [Documentação do SQL]
-*   [Comunidades online de SQL]
-*   [Livros sobre SQL]
+*   ![Documentação do SQL](https://www.postgresql.org/docs/current/sql-syntax.html)
+*   ![Livros sobre SQL](https://www.casadocodigo.com.br/products/livro-postgresql)
 
 **Espero que este repositório seja útil para você em sua jornada de aprendizado do SQL!** 🚀
