@@ -4,7 +4,7 @@
 
 **Instrutor:** Midori Toyota
 
-**Plataforma:** Udemy (https://www.udemy.com/course/sql-para-analise-de-dados/)
+**Plataforma:** [Udemy](https://www.udemy.com/course/sql-para-analise-de-dados/)
 
 **Descrição:**
 
